@@ -1,5 +1,6 @@
 # ndvi
-for processing near infrared images to ndvi 
+for processing near infrared images to ndvi
+
 
 To get started:
     $ git clone https://github.com/gtsorho/ndvi.git
